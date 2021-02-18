@@ -1,0 +1,29 @@
+
+h1 {
+    color: blue;
+}
+* {
+    border: solid;
+    color: cadetblue;
+}
+
+.header{
+    background-color:paleturquoise;
+    display:flex;
+    justify-content: space-between;
+}
+
+.menu{
+    
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
